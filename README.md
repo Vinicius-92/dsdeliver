@@ -1,3 +1,6 @@
+[![My Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/vinicius-92)
+
+
 # Delivery Application with backend with Java and Frontend with React
 ### Created during the week project of Nélio Alves, at DevSuperior
 
